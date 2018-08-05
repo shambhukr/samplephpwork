@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps Env on BeanStack... i'm loving it</h1>
+<h1>Developing PHP Application... i'm loving it</h1>
 
 <?php
 echo "version :Rev Ver";
